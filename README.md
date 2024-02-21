@@ -24,7 +24,7 @@ Contribuir para projetos de código aberto.
 Tecnologias emergentes como computação em nuvem e inteligência artificial.
 📫 Como me encontrar
 
-Estou aberto a oportunidades de estágio, projetos freelance, ou colaborações em projetos de código aberto. Se você está procurando alguém com minha habilidade e entusiasmo, não hesite em entrar em contato!
+Estou aberto a oportunidades de estágio, projetos freelancer, ou colaborações em projetos de código aberto. Se você está procurando alguém com minha habilidade e entusiasmo, não hesite em entrar em contato!
 <div>
   <a href="https://github.com/LuizHenriqueRO">
     <img height="200em" class="color" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueRO&count_private=true&show_icons=true&bg_color=30,000000,4169E1&title_color=fff&text_color=fff" />
