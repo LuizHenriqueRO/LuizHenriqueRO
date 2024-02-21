@@ -11,10 +11,10 @@ Bancos de Dados: PostgreSQL, MySQL
 Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades técnicas.
 
 🌱 Aprendizado Contínuo
-Tenho um compromisso com o aprendizado contínuo. Não tenho medo de enfrentar novas tecnologias ou paradigmas de programação. Atualmente, estou desenvolvendo um ChatBot de Whatsapp com integrações de API em JavaScript .
+Tenho um compromisso com o aprendizado contínuo. Não tenho medo de enfrentar novas tecnologias ou paradigmas de programação. Atualmente, desenvolvi um ChatBot de Whatsapp com integrações de API em JavaScript, atualmente o bot já está em funcionamento.
 
 👥 Habilidades Interpessoais
-Sou sociável e possuo excelente habilidade de comunicação, tanto escrita quanto verbal. Tenho facilidade de falar em público e trabalhar em equipe, valorizando a diversidade de ideias e a colaboração.
+Sou sociável e possuo boa habilidade de comunicação, tanto escrita quanto verbal. Tenho facilidade de falar em público e trabalhar em equipe, valorizando a diversidade de ideias e a colaboração.
 
 🚀 Objetivos Profissionais
 Meu objetivo é contribuir para projetos inovadores em desenvolvimento de software, onde possa aplicar minhas habilidades técnicas e aprender constantemente. Estou particularmente interessado em:
