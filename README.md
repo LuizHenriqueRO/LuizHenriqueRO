@@ -14,7 +14,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir 
 
 🌱 **Aprendizado Contínuo**
 
-Tenho um compromisso com o aprendizado contínuo. Não tenho medo de enfrentar novas tecnologias ou paradigmas de programação. Atualmente, desenvolvi um ChatBot de Whatsapp com integrações de API em JavaScript, atualmente o bot já está em funcionamento.
+Tenho um compromisso com o aprendizado contínuo. Não tenho medo de enfrentar novas tecnologias ou paradigmas de programação. 
 
 👥 **Habilidades Interpessoais**
 
