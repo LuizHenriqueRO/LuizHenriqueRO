@@ -36,7 +36,7 @@ Tecnologias emergentes como computação em nuvem e inteligência artificial.
 
 LinkedIn: www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244
 
-Email: luiz.rocha.oliveira.dev@gmail.com
+Email: luizrocha1911@gmail.com
 
 Estou aberto a oportunidades de estágio, projetos freelancer, ou colaborações em projetos de código aberto. Se você está procurando alguém com minha habilidade e entusiasmo, não hesite em entrar em contato!
 
