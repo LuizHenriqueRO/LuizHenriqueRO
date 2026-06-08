@@ -1,5 +1,6 @@
 ### Olá, eu sou o Luiz Henrique Rocha 👋
-🎓 Sobre Mim \n
+🎓 Sobre Mim
+
 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Goiás, apaixonado por tecnologia e inovação. Dedico me a compreender profundamente os fundamentos da computação e a aplicar esse conhecimento na resolução de problemas reais.
 
 💻 Experiência
