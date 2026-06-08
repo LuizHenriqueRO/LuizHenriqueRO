@@ -1,9 +1,10 @@
 ### Olá, eu sou o Luiz Henrique Rocha 👋
-🎓 Sobre Mim
+🎓 **Sobre Mim**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Goiás, apaixonado por tecnologia e inovação. Dedico me a compreender profundamente os fundamentos da computação e a aplicar esse conhecimento na resolução de problemas reais.
 
-💻 Experiência
+💻 **Experiência**
+
 Possuo experiência prática em diversas tecnologias, incluindo:
 
 Linguagens de Programação: C, Java, JavaScript
@@ -11,13 +12,16 @@ Web Development: HTML, CSS
 Bancos de Dados: PostgreSQL, MySQL
 Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades técnicas.
 
-🌱 Aprendizado Contínuo
+🌱 **Aprendizado Contínuo**
+
 Tenho um compromisso com o aprendizado contínuo. Não tenho medo de enfrentar novas tecnologias ou paradigmas de programação. Atualmente, desenvolvi um ChatBot de Whatsapp com integrações de API em JavaScript, atualmente o bot já está em funcionamento.
 
-👥 Habilidades Interpessoais
+👥 **Habilidades Interpessoais**
+
 Sou sociável e possuo boa habilidade de comunicação, tanto escrita quanto verbal. Tenho facilidade de falar em público e trabalhar em equipe, valorizando a diversidade de ideias e a colaboração.
 
-🚀 Objetivos Profissionais
+🚀 **Objetivos Profissionais**
+
 Meu objetivo é contribuir para projetos inovadores em desenvolvimento de software, onde possa aplicar minhas habilidades técnicas e aprender constantemente. Estou particularmente interessado em:
 
 Desenvolvimento de sistemas robustos e escaláveis.
