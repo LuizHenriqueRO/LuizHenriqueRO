@@ -27,7 +27,14 @@ Meu objetivo é contribuir para projetos inovadores em desenvolvimento de softwa
 Desenvolvimento de sistemas robustos e escaláveis.
 Contribuir para projetos de código aberto.
 Tecnologias emergentes como computação em nuvem e inteligência artificial.
-📫 Como me encontrar
+
+**📫 Como me encontrar**
+
+LinkedIn:
+www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244
+
+Email: 
+luiz.rocha.oliveira.dev@gmail.com
 
 Estou aberto a oportunidades de estágio, projetos freelancer, ou colaborações em projetos de código aberto. Se você está procurando alguém com minha habilidade e entusiasmo, não hesite em entrar em contato!
 
@@ -43,10 +50,4 @@ Estou aberto a oportunidades de estágio, projetos freelancer, ou colaborações
     <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
   <br>
-</div>
-
-<div style="margin-top: 30px;">
-    <br>
-    <a href="www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244" target="www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="mailto:luizrocha1911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
