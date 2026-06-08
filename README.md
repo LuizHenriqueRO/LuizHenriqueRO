@@ -7,10 +7,14 @@ Sou formado em Análise e Desenvolvimento de Sistemas no Instituto Federal de Go
 
 Possuo experiência prática em diversas tecnologias, incluindo:
 
-Linguagens de Programação: C, Java, JavaScript
-Web Development: HTML, CSS
-Bancos de Dados: PostgreSQL, MySQL
-Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir minhas habilidades técnicas.
+**Linguagens de Programação:** C, Java, JavaScript
+**Web Development:** HTML, CSS
+**Bancos de Dados:** PostgreSQL, MySQL
+**Integrações & APIs:** WhatsApp Cloud API, OpenAI API, Google Drive API
+
+🤖 **Projeto em Destaque: Chatbot para Coral**
+
+Desenvolvi um Sistema Autônomo de Processamento e Envio de Mídias. O projeto é um chatbot via WhatsApp Cloud API que automatiza a distribuição de mídias de ensaio para corais. Ele utiliza Inteligência Artificial (OpenAI) para processamento de intenções, integra-se ao Google Drive para gestão de arquivos e utiliza Redis para gerenciamento de memória e estado da conversa. 🔗 Confira o repositório no GitHub https://github.com/LuizHenriqueRO/Chatbot-Coral
 
 🌱 **Aprendizado Contínuo**
 
