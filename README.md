@@ -30,12 +30,6 @@ Tecnologias emergentes como computação em nuvem e inteligência artificial.
 📫 Como me encontrar
 
 Estou aberto a oportunidades de estágio, projetos freelancer, ou colaborações em projetos de código aberto. Se você está procurando alguém com minha habilidade e entusiasmo, não hesite em entrar em contato!
-<div>
-  <a href="https://github.com/LuizHenriqueRO">
-    <img height="200em" class="color" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueRO&count_private=true&show_icons=true&bg_color=30,000000,4169E1&title_color=fff&text_color=fff" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueRO&layout=donut&bg_color=30,4169E1,000000&title_color=fff&text_color=fff" />
-  </a>
- </div>
 
 <div style="display: inline_block; margin-top: 40px;">
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
