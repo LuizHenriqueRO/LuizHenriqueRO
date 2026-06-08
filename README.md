@@ -1,7 +1,7 @@
 ### Olá, eu sou o Luiz Henrique Rocha 👋
 🎓 **Sobre Mim**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Goiás, apaixonado por tecnologia e inovação. Dedico me a compreender profundamente os fundamentos da computação e a aplicar esse conhecimento na resolução de problemas reais.
+Sou formado em Análise e Desenvolvimento de Sistemas no Instituto Federal de Goiás. Dedico me a compreender profundamente os fundamentos da computação e a aplicar esse conhecimento na resolução de problemas reais.
 
 💻 **Experiência**
 
@@ -47,6 +47,6 @@ Estou aberto a oportunidades de estágio, projetos freelancer, ou colaborações
 
 <div style="margin-top: 30px;">
     <br>
-    <a href="www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244" target="www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:luizrocha1911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
