@@ -7,10 +7,10 @@ Sou formado em Análise e Desenvolvimento de Sistemas no Instituto Federal de Go
 
 Possuo experiência prática em diversas tecnologias, incluindo:
 
-**Linguagens de Programação:** C, Java, JavaScript
-**Web Development:** HTML, CSS
-**Bancos de Dados:** PostgreSQL, MySQL
-**Integrações & APIs:** WhatsApp Cloud API, OpenAI API, Google Drive API
+**Linguagens de Programação:** C, Java, JavaScript  
+**Web Development:** HTML, CSS  
+**Bancos de Dados:** PostgreSQL, MySQL  
+**Integrações & APIs:** WhatsApp Cloud API, OpenAI API, Google Drive API  
 
 🤖 **Projeto em Destaque: Chatbot para Coral**
 
@@ -28,17 +28,15 @@ Sou sociável e possuo boa habilidade de comunicação, tanto escrita quanto ver
 
 Meu objetivo é contribuir para projetos inovadores em desenvolvimento de software, onde possa aplicar minhas habilidades técnicas e aprender constantemente. Estou particularmente interessado em:
 
-Desenvolvimento de sistemas robustos e escaláveis.
-Contribuir para projetos de código aberto.
-Tecnologias emergentes como computação em nuvem e inteligência artificial.
+Desenvolvimento de sistemas robustos e escaláveis.  
+Contribuir para projetos de código aberto.  
+Tecnologias emergentes como computação em nuvem e inteligência artificial.  
 
 **📫 Como me encontrar**
 
-LinkedIn:
-www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244
+LinkedIn: www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244
 
-Email: 
-luiz.rocha.oliveira.dev@gmail.com
+Email: luiz.rocha.oliveira.dev@gmail.com
 
 Estou aberto a oportunidades de estágio, projetos freelancer, ou colaborações em projetos de código aberto. Se você está procurando alguém com minha habilidade e entusiasmo, não hesite em entrar em contato!
 
