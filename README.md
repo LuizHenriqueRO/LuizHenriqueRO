@@ -43,8 +43,8 @@ Na **RDL Development** criamos sites, aplicativos e sistemas sob medida, do plan
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,java,c,react,html,css,mysql,postgres,redis,docker,git,gitlab&theme=dark&perline=16">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,java,c,react,html,css,mysql,postgres,redis,docker,git,gitlab&theme=light&perline=16" width="100%" alt="JavaScript, Node.js, Express, PHP, Laravel, Java, C, React Native, HTML, CSS, MySQL, PostgreSQL, Redis, Docker, Git, GitLab">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,java,c,react,html,css,mysql,postgres,redis,docker,git,gitlab&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,java,c,react,html,css,mysql,postgres,redis,docker,git,gitlab&theme=light&perline=8" height="100" alt="JavaScript, Node.js, Express, PHP, Laravel, Java, C, React Native, HTML, CSS, MySQL, PostgreSQL, Redis, Docker, Git, GitLab">
 </picture>
 
 **Integrações:** WhatsApp Cloud API · OpenAI API · Google Drive API
