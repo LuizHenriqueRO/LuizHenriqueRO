@@ -1,55 +1,60 @@
-### Olá, eu sou o Luiz Henrique Rocha 👋
-🎓 **Sobre Mim**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Luiz Henrique — automação, integrações e chatbots">
+</picture>
 
-Sou formado em Análise e Desenvolvimento de Sistemas no Instituto Federal de Goiás. Dedico me a compreender profundamente os fundamentos da computação e a aplicar esse conhecimento na resolução de problemas reais.
+Desenvolvedor focado em **automação e integrações**: chatbots com IA, integração com APIs e desenvolvimento web e mobile. Formado em **Análise e Desenvolvimento de Sistemas no IFG** e co-fundador da **[RDL Development](https://rdldevelopment.dev)**.
 
-💻 **Experiência**
+<br/>
 
-Possuo experiência prática em diversas tecnologias, incluindo:
+### Projeto em destaque
 
-**Linguagens de Programação:** C, Java, JavaScript  
-**Web Development:** HTML, CSS  
-**Bancos de Dados:** PostgreSQL, MySQL  
-**Integrações & APIs:** WhatsApp Cloud API, OpenAI API, Google Drive API  
+**[Chatbot Coral](https://github.com/LuizHenriqueRO/Chatbot-Coral)** — assistente no WhatsApp que entrega kits de voz, partituras, letras e materiais de estudo para os membros do Coral Jovem da Asa Norte, conversando em linguagem natural e lembrando o contexto da conversa.
 
-🤖 **Projeto em Destaque: Chatbot para Coral**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/coral-dark.svg">
+  <img src="./assets/coral-light.svg" width="100%" alt="Conversa com o Bot Coral Jovem no WhatsApp e o fluxo de cada mensagem: WhatsApp Cloud API, Node.js + Express, Redis, OpenAI, Google Drive e entrega da mídia">
+</picture>
 
-Desenvolvi um Sistema Autônomo de Processamento e Envio de Mídias. O projeto é um chatbot via WhatsApp Cloud API que automatiza a distribuição de mídias de ensaio para corais. Ele utiliza Inteligência Artificial (OpenAI) para processamento de intenções, integra-se ao Google Drive para gestão de arquivos e utiliza Redis para gerenciamento de memória e estado da conversa. 🔗 Confira o repositório no GitHub https://github.com/LuizHenriqueRO/Chatbot-Coral
+`Node.js` · `Express` · `WhatsApp Cloud API` · `OpenAI gpt-4o-mini` · `Google Drive API` · `Redis`
 
-🌱 **Aprendizado Contínuo**
+<br/>
 
-Tenho um compromisso com o aprendizado contínuo. Não tenho medo de enfrentar novas tecnologias ou paradigmas de programação. 
+### Startup
 
-👥 **Habilidades Interpessoais**
+<a href="https://rdldevelopment.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/rdl-dark.svg">
+    <img src="./assets/rdl-light.svg" width="100%" alt="RDL Development — Robson, Daniel e Luiz">
+  </picture>
+</a>
 
-Sou sociável e possuo boa habilidade de comunicação, tanto escrita quanto verbal. Tenho facilidade de falar em público e trabalhar em equipe, valorizando a diversidade de ideias e a colaboração.
+Na **RDL Development** criamos sites, aplicativos e sistemas sob medida, do planejamento à entrega. Eu cuido de **automação e integrações**: chatbots, integração com APIs e desenvolvimento web e mobile.
 
-🚀 **Objetivos Profissionais**
+<br/>
 
-Meu objetivo é contribuir para projetos inovadores em desenvolvimento de software, onde possa aplicar minhas habilidades técnicas e aprender constantemente. Estou particularmente interessado em:
+### Outros projetos
 
-Desenvolvimento de sistemas robustos e escaláveis.  
-Contribuir para projetos de código aberto.  
-Tecnologias emergentes como computação em nuvem e inteligência artificial.  
+| | |
+|---|---|
+| **[Whatsapp-Bot](https://github.com/LuizHenriqueRO/Whatsapp-Bot)** | Bot de WhatsApp em Node.js: figurinhas, ChatGPT e Gemini, transcrição e tradução de áudio, OCR e downloads. |
+| **[Portal de Notícias](https://github.com/LuizHenriqueRO/portal-noticias-laravel)** | Portal de notícias em Laravel com autenticação e gerenciamento de publicações. |
 
-**📫 Como me encontrar**
+<br/>
 
-LinkedIn: www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244
+### Stack
 
-Email: luizrocha1911@gmail.com
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,java,c,react,html,css,mysql,postgres,redis,docker,git,gitlab&theme=dark&perline=16">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,java,c,react,html,css,mysql,postgres,redis,docker,git,gitlab&theme=light&perline=16" width="100%" alt="JavaScript, Node.js, Express, PHP, Laravel, Java, C, React Native, HTML, CSS, MySQL, PostgreSQL, Redis, Docker, Git, GitLab">
+</picture>
 
-Estou aberto a oportunidades de estágio, projetos freelancer, ou colaborações em projetos de código aberto. Se você está procurando alguém com minha habilidade e entusiasmo, não hesite em entrar em contato!
+**Integrações:** WhatsApp Cloud API · OpenAI API · Google Drive API
 
-<div style="display: inline_block; margin-top: 40px;">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="right" src= "https://github.com/LuizHenriqueRO/LuizHenriqueRO/assets/55677633/19dacad6-b4d3-4c10-98a4-f3690c2fd018" width="120">
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<br/>
 
-  <br>
-</div>
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/luiz-henrique-rocha-de-oliveira-547655244/) · [Email](mailto:luizrocha1911@gmail.com) · [RDL Development](https://rdldevelopment.dev)
+
+Aberto a oportunidades, projetos freelancer e colaborações em código aberto.
