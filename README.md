@@ -35,10 +35,8 @@ Na **RDL Development** criamos sites, aplicativos e sistemas sob medida, do plan
 
 ### Outros projetos
 
-| | |
-|---|---|
-| **[Whatsapp-Bot](https://github.com/LuizHenriqueRO/Whatsapp-Bot)** | Bot de WhatsApp em Node.js: figurinhas, ChatGPT e Gemini, transcrição e tradução de áudio, OCR e downloads. |
-| **[Portal de Notícias](https://github.com/LuizHenriqueRO/portal-noticias-laravel)** | Portal de notícias em Laravel com autenticação e gerenciamento de publicações. |
+- **[Whatsapp-Bot](https://github.com/LuizHenriqueRO/Whatsapp-Bot)** — bot de WhatsApp em Node.js: figurinhas, ChatGPT e Gemini, transcrição e tradução de áudio, OCR e downloads.
+- **[Portal de Notícias](https://github.com/LuizHenriqueRO/portal-noticias-laravel)** — portal de notícias em Laravel com autenticação e gerenciamento de publicações.
 
 <br/>
 
